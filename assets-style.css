@@ -1,0 +1,61 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+
+.tcenter {
+  text-align: center;
+}
+.main {
+  background-color: #151515;
+  padding-top: 5rem;
+  color: white;
+}
+.intro {
+  padding-bottom: 6rem;
+}
+.other {
+  margin-top: 15rem;
+}
+.other hr {
+  margin-left: 7.5rem;
+  margin-right: 7.5rem;
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+}
+
+.liststyle li {
+  display: inline-block;
+  font-size: 50px;
+  text-decoration: none;
+  padding: 10px 10px;
+}
+.ddeco {
+  text-decoration: none;
+  color: black;
+}
+
+.dliststyle {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.socialli li, .socialli a {
+  padding: 10px 10px;
+  transition: all ease-in-out 300ms;
+}
+
+.socialli a:hover {
+  color: #E8E8CC;
+}
+.socialli i {
+  padding-right: 0.25rem;
+}
+
+.lovhov {
+  transition: all ease-in-out 300ms;
+}
+.lovhov:hover {
+  color: red;
+}
